@@ -1,19 +1,10 @@
 """
 --------------------------------------------------------------------------------------------------------------------------------
-Project Name: Mechanical Thrombectomy Robot
-File Name: robot_control_interface.py
 Description: This module is responsible for communicating with the CNC board (Octopus, BIGTREETECH)
-and move motors in s safe and robust manner for robotic manipulation.
-
-Depending files and scripts:
-- config.json
-- config.json.bak
-- config.py
+and move motors in safe and robust manner for robotic manipulation of endovascular instruments.
     
-Author: Nikola Fischer
-Created: 2024-01-09
-Updated: 2024-11-19
-Version: v7.0.0
+Authors: Seyedmohammadhadi Sadati (smh_sadati@kcl.ac.uk), Nikola Fischer (nikola.fischer@kcl.ac.uk)
+Updated: 2025-01-17
 
 License: MIT License (https://opensource.org/licenses/MIT)
 
@@ -24,7 +15,6 @@ import serial
 import re
 from time import sleep
 import os
-#import msvcrt
 import time
 import sys 
 import os

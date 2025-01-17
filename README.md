@@ -1,6 +1,8 @@
-### BEFORE CLONING THIS REP
-# Install Git LFS in your local environment for handling large files
+# BEFORE CLONING THIS REP
+Install Git LFS in your local environment for handling large files
+```
 git lfs install
+```
 (in linux: sudo apt install git-lfs)
 
 git lfs track "*.zip"

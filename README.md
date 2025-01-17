@@ -1,4 +1,4 @@
-## BEFORE CLONING THIS REP
+### BEFORE CLONING THIS REP
 # Install Git LFS in your local environment for handling large files
 git lfs install
 (in linux: sudo apt install git-lfs)
@@ -7,7 +7,7 @@ git lfs track "*.zip"
 git add .gitattributes
 git commit -m "Add Git LFS tracking for large files"
 
-## AFTER CLONING THIS REP
+### AFTER CLONING THIS REP
 # Install SOFA_v22.12.00_Win64.exe from Resources folder
 Follow the README file for SOFA and Python Plugin
 

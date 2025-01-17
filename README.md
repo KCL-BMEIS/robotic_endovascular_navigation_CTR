@@ -31,13 +31,11 @@ pip install pygame
 pip install transforms3d
 ```
 
-
-
 # Install eve and controller toolboxes from Lennart
-Read the README fileinside each toolbox folder
+Read and follow the README files inside each toolbox folder.
 
 # install JoyToKey
-in JoyToKey folder, run "JoyToKey" or copy the wireless.cfg file to the JoyToKey installed config folder
+In JoyToKey folder, run "JoyToKey" or copy the wireless.cfg file to the JoyToKey installed config folder
 
 # Note
 - Visual Code needs to "trust" the source to run/debug it (click on "manage" in the banner and hit "trust")

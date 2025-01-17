@@ -3,17 +3,23 @@ Install Git LFS in your local environment for handling large files
 ```
 git lfs install
 ```
-(in linux: sudo apt install git-lfs)
-
+alternative in linux: 
+```
+sudo apt install git-lfs
+```
+Followed by:
+```
 git lfs track "*.zip"
 git add .gitattributes
 git commit -m "Add Git LFS tracking for large files"
+```
 
-### AFTER CLONING THIS REP
+# AFTER CLONING THIS REP
 # Install SOFA_v22.12.00_Win64.exe from Resources folder
 Follow the README file for SOFA and Python Plugin
 
 # install these
+```
 * pip install opencv-python
 * pip install numpy
 * pip install matplotlib
@@ -23,6 +29,7 @@ Follow the README file for SOFA and Python Plugin
 * pip install keyboard
 * pip install pygame
 * pip install transforms3d
+```
 
 # if you do not have a NVidia GPU, install the PyTorch CPU-only version
 * pip uninstall torch torchvision torchaudio

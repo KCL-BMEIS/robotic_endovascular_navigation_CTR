@@ -19,7 +19,8 @@
 2.8 	3D printed antenna flange				motor_anthena_flange.stl			2x			-
 2.9		3D printed triangular motor mount		Motor Mount.stl						1x			-
 2.10	3D printed rod carrier					Rod_carrier.stl						1x			-
-2.11 	3D printed split rod carrier												1x			-
+2.11 	3D printed split rod carrier			Split_rod_carrier.stl				1x			-
+2.12	3D printed split counter slider			Robot_CounterSlider.stl				1x			-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3.	Electronics
 3.1 	Control board							BIGTREETECH Octopus V1.1			1x			https://www.amazon.co.uk/dp/B094NG4D17/?coliid=I22ESHW19K2N15&colid=3520FTQ0X8M2T&ref_=list_c_wl_lv_vv_lig_dp_it&th=1
@@ -31,3 +32,5 @@ Optional: End-switch setup
 		Mechanical end switch 					-									1x			https://www.amazon.co.uk/dp/B07VWRS24K/?coliid=IRW7LIHLXJ1XL&colid=1T59923GPXD4F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it	
 		Metal rods for motor block switch		D = 5mm								1x			-
 		3D printed end stop connectors			Endstop_connecter.stl				1x			-		
+		3D printed shield connectors			motor_mech_shield_stopper.stl		1x			-		
+		

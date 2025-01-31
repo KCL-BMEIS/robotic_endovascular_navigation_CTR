@@ -1,5 +1,3 @@
-## No Camera, no SOFA
-
 from urllib import response
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -41,7 +39,7 @@ control2cnc = [[1, 4], [0, 3], [2, 5]] # Lennart's single device tests
 target_converg_range = 0.1 # target convergance radius to stop the controller
 
 # cnc controller parameters:
-CNC_CONNECT = False # should connect to the board or not
+CNC_CONNECT = True # should connect to the board or not
 board_com = [ 'COM3' ] # port addresses for layer (top) 1 - 4 (bottom), my laptop
 motor_code = [ 'X' , 'Y' , 'Z' , 'A' , 'B' , 'C' ] # motor gcodes, XYZ_outer2inner: translation, ABC_outer2inner: rotation, XA: for outermost
 feedrate = 3000 # axis feedrate in mm/min (the commands are in mm)

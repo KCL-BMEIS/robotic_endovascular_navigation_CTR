@@ -1,6 +1,8 @@
 ## Robotic Navigation with Catheter and Guidewire
 This Git repository provides the basic hard- and software pieces to setup and control the endovascular robot presented at the Hamlyn Symposium 2025 by Seyedmohammadhadi Sadati (m.hadi.sadati@gmail.com).
 
+Please find a comprehensive video about this research project [here](https://www.youtube.com/watch?v=b7-3ZVEUGTk).
+
 # Hardware
 The hardware components provided include the bill of materials to replicate the robotic hardward as well as the required .stl files for 3D-printing.
 

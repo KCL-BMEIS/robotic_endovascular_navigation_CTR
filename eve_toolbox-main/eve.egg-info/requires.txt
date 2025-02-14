@@ -1,0 +1,13 @@
+numpy
+pillow
+scipy
+scikit-image
+pyvista
+meshio
+PyOpenGL
+pygame
+matplotlib
+pymunk
+opencv-python
+gymnasium
+pyyaml

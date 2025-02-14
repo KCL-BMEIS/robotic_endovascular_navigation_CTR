@@ -42,9 +42,9 @@ target_converg_range = 0.1 # target convergance radius to stop the controller
 CNC_CONNECT = True # should connect to the board or not
 board_com = [ 'COM3' ] # port addresses for layer (top) 1 - 4 (bottom), my laptop
 motor_code = [ 'X' , 'Y' , 'Z' , 'A' , 'B' , 'C' ] # motor gcodes, XYZ_outer2inner: translation, ABC_outer2inner: rotation, XA: for outermost
-feedrate = 3000 # axis feedrate in mm/min (the commands are in mm)
+feedrate = 15000 # axis feedrate in mm/min (the commands are in mm)
 dist_scale = [10, 10, 10, 1/9, 1/9, 1/9] # motor step scale factor to get mm and deg units
-travel_step = 5 # mm, travel distance step
+travel_step = 5 # mm, travel distance stepkk
 rot_step = 30 # deg, rotation angle step
 
 

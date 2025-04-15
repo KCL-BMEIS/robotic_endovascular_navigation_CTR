@@ -1,0 +1,36 @@
+#	Label										Info - Specs						Amount		Example-Link
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. 	FRAME
+1.1		Aluminium extrusion						20x20 with V-slot					-			-
+1.2 	+ connectors etc.						-									-			-
+1.3		Lead screw								Tr 8x4								1x			-
+1.4		Lead screw nuts							Tr 8x4, 4mm lead, 2mm pitch			2x			https://www.amazon.co.uk/sourcing-map-Trapezoidal-Replacing-Accessories/dp/B0DPC3KCS1/ref=sr_1_5?crid=1WO9TMAN5Z431&dib=eyJ2IjoiMSJ9.FP1SmfU1Bd5UH9LrrkhDE9U4sDzFj8-i5gb52ZeUmG_iFTfng2Z1TmT67dOvenEEDpMUsv_oZXWZSBlYWK9-8HayUjIoRCiYjGvA4QgeLFN2vH6WktFdmmezc-VtTb3Neyc9sIEIi2tLNnQiyr6SN3ntOmDsYFlXLzN3lSbXBinzDD87GLyZkQTY64-iJr5yLjrnBwdOsuMBCb9UnhwAWQ_N8J1H3dUA5ULySsVpWgGmBkvzefnI94WxUCFPkbKmfpqdVfrBlmC8tPxh_wDsv-HvpPK4Ui6FTDTgCDw951IT90Dt60mXkh5wzzjgzdPqFyaxrq7zjHrTERa89QTmynr8r0MdiyHoEbY4PpDiwrAwjIeerOJ_plq6ZG653eaN_ZK205dvP7x31p7MNDa2IPxjtHj_9rbltqrsmNg5_xI5Sss79AGiGOMN2EvnApsQ.QPwTMHAk33g_589rQtoENcV3RIwAIp0Rm81sv8H0A_s&dib_tag=se&keywords=lead+screw+nut+TR8x4&nsdOptOutParam=true&qid=1737122157&sprefix=lead+screw+nut+tr8x4%2Caps%2C87&sr=8-5
+1.5		3D printed tip antenna flange			tip_antenna_flange					4x			-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. 	CARRIAGE (one per instrument, providing 1 DOF translation + 1 DOF rotation)
+2.1		Hollow shaft stepper motor				NEMA 17 12v 1A						1x			-
+2.2 	Non-captive stepper motor				NEMA 17 Tr 8x4						1x			https://www.aliexpress.com/item/1005003623545552.html?spm=a2g0o.order_list.order_list_main.4.79351802kYv4Zy
+2.3 	Carrying pad							20mm V								1x			https://www.amazon.co.uk/dp/B09B396WH9/?coliid=I3LD8DJTI8MFZO&colid=3520FTQ0X8M2T&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it
+2.4 	Shaft Coupler Connector					10mm to 10mm, L25xD20				1x			https://www.amazon.co.uk/dp/B08H25TJ85/?coliid=I179OPWM772Z6P&colid=3520FTQ0X8M2T&ref_=list_c_wl_lv_vv_lig_dp_it&th=1					
+2.5		Metal rod								D = 5mm								-			-
+2.6 	Brass Drill Chuck						-									-			https://www.amazon.co.uk/dp/B08SC2QM2X/?coliid=I1U22GA4K0HQEU&colid=3520FTQ0X8M2T&ref_=list_c_wl_lv_vv_lig_dp_it&th=1							
+2.7 	Telescopic antenna						-									1x			https://www.amazon.co.uk/dp/B0CLCSTB5M/?coliid=I27J5GQSVMDH0Q&colid=3520FTQ0X8M2T&ref_=list_c_wl_lv_vv_lig_dp_it&th=1
+2.8 	3D printed antenna flange				motor_anthena_flange.stl			2x			-
+2.9		3D printed triangular motor mount		Motor Mount.stl						1x			-
+2.10	3D printed rod carrier					Rod_carrier.stl						1x			-
+2.11 	3D printed split rod carrier			Split_rod_carrier.stl				1x			-
+2.12	3D printed split counter slider			Robot_CounterSlider.stl				1x			-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3.	Electronics
+3.1 	Control board							BIGTREETECH Octopus V1.1			1x			https://www.amazon.co.uk/dp/B094NG4D17/?coliid=I22ESHW19K2N15&colid=3520FTQ0X8M2T&ref_=list_c_wl_lv_vv_lig_dp_it&th=1
+3.2 	Motor driver							BIGTREETECH TMCj2209 V1.3			2x			https://www.amazon.co.uk/dp/B07WC71M4R/?coliid=II2LMJMD4WV4H&colid=1T59923GPXD4F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it	
+3.3 	Cable sleeve							-									1x			https://www.amazon.co.uk/dp/B07FW86XV6/?coliid=IM3SKO9III0EB&colid=1T59923GPXD4F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it
+3.4		Cables (stepper motor)					XH2.54								2x			https://www.amazon.co.uk/dp/B091FJ22TT/?coliid=I1CO5YMXFNM5S3&colid=1T59923GPXD4F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it						
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.	End-switch setup 
+4.1		Mechanical end switch 					-									2x			https://www.amazon.co.uk/dp/B07VWRS24K/?coliid=IRW7LIHLXJ1XL&colid=1T59923GPXD4F&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it	
+4.2		Metal rods for motor block switch		D = 5mm								1x			-
+4.3		3D printed end stop connectors			Endstop_connecter.stl				1x			-		
+4.4		3D printed shield connectors			motor_mech_shield_stopper.stl		1x			-		
+		
